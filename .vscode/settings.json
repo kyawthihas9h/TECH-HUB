@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/jbcrypt-0.4.jar",
+    "lib/mysql-connector-j-8.0.33.jar"
+  ],
+  "java.project.sourcePaths": [
+    "src/main/java"
+  ],
+  "java.project.outputPath": "out",
+  "files.readonlyInclude": {
+    "{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
+  }
+}
